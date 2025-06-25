@@ -16,3 +16,7 @@ plt.show()
 ### Result
 ![Visualization of Top Skills for Data Jobs](Final_Project/Images/skill_demand_chart.png)
 
+### Insights
+- Python is heavily demanded in technical roles like Data Scientist and Data Engineer and drops off in lower-level jobs like Data Analyst and Business Analyst.
+- SQL is the most consistent skill as it is the most demanded skill in every job except Data Scientist, where it is second to Python.
+- Excel and Tableau, data analysis and management tools, are more common among Data/Business Analysts, whereas more specialized tools like AWS and Azure are reserved for Data Engineers.
