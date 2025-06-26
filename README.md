@@ -38,7 +38,7 @@ for i, skill in enumerate(my_df_percent.columns[0:7]):
     ax.text(x_pos + 0.2, y_pos, skill, fontsize=10, va='center')
 ```
 ### Result
-![Visualization of Top Skills Trends for Data Analysts](Final_Project\Images\real_skill_trend_chart.png)
+![Visualization of Top Skills Trends for Data Analysts](Final_Project/Images/real_skill_trend_chart.png)
 
 ### Insights
 - Although SQL is by far the most in-demand skill for data analysts, it is also on a downward trend as it decreased about 5% in 2023.
