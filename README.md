@@ -43,4 +43,4 @@ for i, skill in enumerate(my_df_percent.columns[0:7]):
 ### Insights
 - Although SQL is by far the most in-demand skill for data analysts, it is also on a downward trend as it decreased about 5% in 2023.
 - Excel, the second most likely skill to appear, also experienced a downward trend towards the second half of the year.
-- Less common skills like SAS, Power BI and R demonstrated a steady trend throughout the year.
+- Less common skills like SAS, Power BI and R demonstrated a relatively steady trend throughout the year.
